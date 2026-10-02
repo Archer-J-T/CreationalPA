@@ -8,8 +8,7 @@ import cpsc2150.abstractfactorypattern.factory.WidgetFactory;
 /**
  * Client code for the standalone Abstract Factory example.
  *
- * <p>The client selects one concrete factory and gives it to the context. The context then receives
- * three matching products from that family.
+ * <p>The client selects one concrete factory and gives it to the context. The context then receives three matching products from that family.
  */
 public final class AbstractFactoryClient {
 
